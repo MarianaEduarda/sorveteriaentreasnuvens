@@ -7,13 +7,16 @@ top: 0px;
 
 background: linear-gradient(180deg, #0097D8 0%, rgba(217, 217, 217, 0) 100%);
 }
+
 .cabeçalho-img{
     position: absolute;
 width: 1440px;
 height: 243px;
 left: 0px;
 top: 0px;
+width: 100%;
 }
+
 .corpo{
     position: absolute;
     width: 1440px;
