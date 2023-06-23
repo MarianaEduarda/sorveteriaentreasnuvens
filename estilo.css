@@ -93,4 +93,7 @@ width: 100%;
     color: #0080F5;
     font-size: 24px;
     font-family: IM FELL English;
+    position: absolute;
+    left: 1700px;
+    top: 70px;
 }
