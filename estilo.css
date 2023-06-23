@@ -57,12 +57,15 @@ width: 100%;
 }
 
 .sorvete{
+    position: absolute;
+    top: 110px;
+    left: 810px;
     display: flex;
-width: 290px;
-height: 35px;
-flex-direction: column;
-flex-shrink: 0;
-color: #FFFAFA;
-font-size: 40px;
-font-family: IM FELL English;
+    width: 290px;
+    height: 35px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #FFFAFA;
+    font-size: 40px;
+    font-family: IM FELL English;
 }
