@@ -69,3 +69,14 @@ width: 100%;
     font-size: 40px;
     font-family: IM FELL English;
 }
+.rua{
+
+    display: flex;
+    width: 713px;
+    height: 67px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #FFF;
+    font-size: 26px;
+    font-family: Inter;
+}
