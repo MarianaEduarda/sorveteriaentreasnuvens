@@ -80,3 +80,14 @@ width: 100%;
     font-size: 26px;
     font-family: Inter;
 }
+
+.contato{
+    display: flex;
+    width: 199px;
+    height: 29px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #0080F5;
+    font-size: 24px;
+    font-family: IM FELL English;
+}
