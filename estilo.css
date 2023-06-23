@@ -79,6 +79,9 @@ width: 100%;
     color: #FFF;
     font-size: 26px;
     font-family: Inter;
+    position: absolute;
+    top: 90px;
+    left: 50px;
 }
 
 .contato{
