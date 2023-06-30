@@ -97,3 +97,9 @@ width: 100%;
     left: 1700px;
     top: 70px;
 }
+
+.corpo-img{
+    position: absolute;
+    width: 75%;
+    left: 200px;
+}
