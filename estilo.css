@@ -81,7 +81,7 @@ width: 100%;
     font-family: Inter;
     position: absolute;
     top: 90px;
-    left: 50px;
+    left: 50px; /* top: 22px; */
 }
 
 .contato{
@@ -102,4 +102,18 @@ width: 100%;
     position: absolute;
     width: 75%;
     left: 200px;
+}
+
+.numero{
+    display: flex;
+width: 287px;
+height: 27px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 24px;
+font-family: Karla;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
