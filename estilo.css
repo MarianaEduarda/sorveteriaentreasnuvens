@@ -116,4 +116,7 @@ font-family: Karla;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+position: absolute;
+    top: 130px;
+    left: 1740px;
 }
